@@ -122,4 +122,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> *Built with ❤️ for the Data Hackathon 2026*
+
