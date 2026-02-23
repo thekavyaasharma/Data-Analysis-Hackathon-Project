@@ -97,3 +97,22 @@ jupyter notebook
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add your feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## 👩‍💻 Author
+
+**Kavya Sharma**
+- GitHub: [@thekavyaasharma](https://github.com/thekavyaasharma)
+
+---
+
